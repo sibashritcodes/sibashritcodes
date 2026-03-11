@@ -53,4 +53,4 @@ JavaScript • TypeScript • React • Next.js • Node.js
 
 ## 📫 Connect
 
-LinkedIn: in.linkedin.com/in/sibashritpattnaik
+LinkedIn: [in.linkedin.com/in/sibashritpattnaik](https://www.linkedin.com/in/sibashritpattnaik/)
