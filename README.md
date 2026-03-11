@@ -25,7 +25,7 @@ A collection of experiments and implementations to deeply understand JavaScript 
 * Event Loop
 * Design Patterns
 
-Repository: frontend-engineering-playground
+Repository: [Frontend Engineering Playground](https://github.com/sibashritcodes/frontend-engineering-playground)
 
 ---
 
