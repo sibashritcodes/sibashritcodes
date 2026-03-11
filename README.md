@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Sibashrit 👋
 
-<!--
-**sibashritcodes/sibashritcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer with 10+ years of experience building scalable web applications and UI systems.
 
-Here are some ideas to get you started:
+I enjoy exploring JavaScript internals, frontend architecture, and performance optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Exploring
+
+* JavaScript internals
+* Frontend system design
+* UI performance engineering
+* React internals
+
+---
+
+## 🧠 Engineering Playground
+
+A collection of experiments and implementations to deeply understand JavaScript and frontend concepts.
+
+* Bind / Call / Apply
+* Debounce & Throttle
+* Promise Implementation
+* Event Loop
+* Design Patterns
+
+Repository: frontend-engineering-playground
+
+---
+
+## 🧩 Projects
+
+### Virtualized Data Grid
+
+High-performance data grid capable of rendering large datasets efficiently.
+
+### React From Scratch
+
+A minimal implementation of core React concepts like virtual DOM and hooks.
+
+### JavaScript Runtime Visualizer
+
+A tool to visualize the JavaScript event loop, microtasks, and macrotasks.
+
+---
+
+## 🛠 Tech Stack
+
+JavaScript • TypeScript • React • Next.js • Node.js
+
+---
+
+## 📫 Connect
+
+LinkedIn: in.linkedin.com/in/sibashritpattnaik
